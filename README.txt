@@ -35,3 +35,5 @@ The player plays through the game as if it's a normal "your choices matter" RPG,
 and is central to it's themes.
 
 Hopefully this clears some things up!
+
+NOTICE: This concept is fully protected under all applicable copyright laws, and may not be used in any other project without the express permission of it's author, myself (Danny Humphrey). Copyright 2023 Danny Humphrey, all rights reserved.
